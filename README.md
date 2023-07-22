@@ -1,4 +1,4 @@
-# Multimodal Graph-to-Sequence Encoder-Decoder for Learning Material Synthesis Processes of Thermoelectric Materials
+# Artificial Intelligence for Learning Material Synthesis Processes of Thermoelectric Materials
 Various calculation-based and data-driven methods have been proposed to discover high-performance thermoelectric materials for sustainable energy resources.
 However, although several data-driven methods successfully discovered the chemical compositions of promising thermoelectric materials, the practical potential of the existing methods is still limited because there is a complex engineering problem between the discovered materials and the real-world material synthesis.
 To tackle the engineering problem in material synthesis, we propose a multimodal graph-to-sequence model that predicts necessary synthesis operations and their engineering conditions from chemical compositions of precursor and desired product materials.
