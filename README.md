@@ -6,7 +6,7 @@ For an experimental evaluation, we constructed a benchmark dataset containing pr
 The proposed method achieved prediction accuracy greater than 0.85 in Jaccard similarity and R2-score on the benchmark dataset.
 Furthermore, the proposed method successfully generated material synthesis recipes described in the human language via large language models.
 
-Reference: https://???.???
+Reference: [https://pubs.acs.org/doi/10.1021/acs.chemmater.3c01834](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c01834)
 
 # Run
 - ``exec_operations.py``: Train and evaluate a encoder-decoder model to predict the synthesis operations of the material synthesis recipes.
